@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/WebTest/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/WebTest/static/js/main.c9768e81.chunk.js",
-    "main.js.map": "/WebTest/static/js/main.c9768e81.chunk.js.map",
-    "runtime-main.js": "/WebTest/static/js/runtime-main.817a9fae.js",
-    "runtime-main.js.map": "/WebTest/static/js/runtime-main.817a9fae.js.map",
-    "static/js/2.a02e25ea.chunk.js": "/WebTest/static/js/2.a02e25ea.chunk.js",
-    "static/js/2.a02e25ea.chunk.js.map": "/WebTest/static/js/2.a02e25ea.chunk.js.map",
-    "static/js/3.c15dec2c.chunk.js": "/WebTest/static/js/3.c15dec2c.chunk.js",
-    "static/js/3.c15dec2c.chunk.js.map": "/WebTest/static/js/3.c15dec2c.chunk.js.map",
+    "main.css": "/WebTest/static/css/main.75de826c.chunk.css",
+    "main.js": "/WebTest/static/js/main.ff247396.chunk.js",
+    "main.js.map": "/WebTest/static/js/main.ff247396.chunk.js.map",
+    "runtime-main.js": "/WebTest/static/js/runtime-main.c97f8fee.js",
+    "runtime-main.js.map": "/WebTest/static/js/runtime-main.c97f8fee.js.map",
+    "static/js/2.f9477397.chunk.js": "/WebTest/static/js/2.f9477397.chunk.js",
+    "static/js/2.f9477397.chunk.js.map": "/WebTest/static/js/2.f9477397.chunk.js.map",
+    "static/js/3.1f6a5c79.chunk.js": "/WebTest/static/js/3.1f6a5c79.chunk.js",
+    "static/js/3.1f6a5c79.chunk.js.map": "/WebTest/static/js/3.1f6a5c79.chunk.js.map",
     "index.html": "/WebTest/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/WebTest/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a02e25ea.chunk.js.LICENSE.txt": "/WebTest/static/js/2.a02e25ea.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/WebTest/static/media/logo.6ce24c58.svg"
+    "static/css/main.75de826c.chunk.css.map": "/WebTest/static/css/main.75de826c.chunk.css.map",
+    "static/js/2.f9477397.chunk.js.LICENSE.txt": "/WebTest/static/js/2.f9477397.chunk.js.LICENSE.txt",
+    "static/media/BardSquare.f964c273.png": "/WebTest/static/media/BardSquare.f964c273.png",
+    "static/media/EkkoSquare.e1df36ed.png": "/WebTest/static/media/EkkoSquare.e1df36ed.png",
+    "static/media/LuluSquare.638b58b5.png": "/WebTest/static/media/LuluSquare.638b58b5.png",
+    "static/media/LuxSquare.3ad413fb.png": "/WebTest/static/media/LuxSquare.3ad413fb.png",
+    "static/media/TeemoSquare.b565b5e8.png": "/WebTest/static/media/TeemoSquare.b565b5e8.png",
+    "static/media/ViSquare.6be52522.png": "/WebTest/static/media/ViSquare.6be52522.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.817a9fae.js",
-    "static/js/2.a02e25ea.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c9768e81.chunk.js"
+    "static/js/runtime-main.c97f8fee.js",
+    "static/js/2.f9477397.chunk.js",
+    "static/css/main.75de826c.chunk.css",
+    "static/js/main.ff247396.chunk.js"
   ]
 }
