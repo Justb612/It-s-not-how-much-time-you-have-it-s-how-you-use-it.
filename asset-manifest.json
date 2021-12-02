@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/WebTest/static/css/main.75de826c.chunk.css",
-    "main.js": "/WebTest/static/js/main.770df63a.chunk.js",
-    "main.js.map": "/WebTest/static/js/main.770df63a.chunk.js.map",
-    "runtime-main.js": "/WebTest/static/js/runtime-main.c97f8fee.js",
-    "runtime-main.js.map": "/WebTest/static/js/runtime-main.c97f8fee.js.map",
-    "static/js/2.f9477397.chunk.js": "/WebTest/static/js/2.f9477397.chunk.js",
-    "static/js/2.f9477397.chunk.js.map": "/WebTest/static/js/2.f9477397.chunk.js.map",
-    "static/js/3.1f6a5c79.chunk.js": "/WebTest/static/js/3.1f6a5c79.chunk.js",
-    "static/js/3.1f6a5c79.chunk.js.map": "/WebTest/static/js/3.1f6a5c79.chunk.js.map",
+    "main.js": "/WebTest/static/js/main.b4ba1801.chunk.js",
+    "main.js.map": "/WebTest/static/js/main.b4ba1801.chunk.js.map",
+    "runtime-main.js": "/WebTest/static/js/runtime-main.6b4ff4a7.js",
+    "runtime-main.js.map": "/WebTest/static/js/runtime-main.6b4ff4a7.js.map",
+    "static/js/2.f46cf441.chunk.js": "/WebTest/static/js/2.f46cf441.chunk.js",
+    "static/js/2.f46cf441.chunk.js.map": "/WebTest/static/js/2.f46cf441.chunk.js.map",
+    "static/js/3.b276ff42.chunk.js": "/WebTest/static/js/3.b276ff42.chunk.js",
+    "static/js/3.b276ff42.chunk.js.map": "/WebTest/static/js/3.b276ff42.chunk.js.map",
     "index.html": "/WebTest/index.html",
     "static/css/main.75de826c.chunk.css.map": "/WebTest/static/css/main.75de826c.chunk.css.map",
-    "static/js/2.f9477397.chunk.js.LICENSE.txt": "/WebTest/static/js/2.f9477397.chunk.js.LICENSE.txt",
+    "static/js/2.f46cf441.chunk.js.LICENSE.txt": "/WebTest/static/js/2.f46cf441.chunk.js.LICENSE.txt",
     "static/media/BardSquare.f964c273.png": "/WebTest/static/media/BardSquare.f964c273.png",
     "static/media/EkkoSquare.e1df36ed.png": "/WebTest/static/media/EkkoSquare.e1df36ed.png",
     "static/media/LuluSquare.638b58b5.png": "/WebTest/static/media/LuluSquare.638b58b5.png",
@@ -20,9 +20,9 @@
     "static/media/ViSquare.6be52522.png": "/WebTest/static/media/ViSquare.6be52522.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c97f8fee.js",
-    "static/js/2.f9477397.chunk.js",
+    "static/js/runtime-main.6b4ff4a7.js",
+    "static/js/2.f46cf441.chunk.js",
     "static/css/main.75de826c.chunk.css",
-    "static/js/main.770df63a.chunk.js"
+    "static/js/main.b4ba1801.chunk.js"
   ]
 }
