@@ -20,6 +20,7 @@ const cardImages = [
 ];
 
 function App() {
+  console.log("megvagy");
   useEffect(() => {
     ReactGA.initialize("UA-214143913-1");
     ReactGA.pageview("/");
